@@ -1,8 +1,6 @@
-# 🚨 Don't change the code below 👇
+# calculador de vida 
 age = input("What is your current age? ")
-# 🚨 Don't change the code above 👆
 
-#Write your code below this line 👇
 
 age_num = int(age)
 days_life = int(365 * 90)
